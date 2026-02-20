@@ -1,6 +1,6 @@
 # GitHub Pages Template (Researcher Style)
 
-This is a lightweight Jekyll template based on the `ankitsultana/researcher` theme, customized to match the style of https://parkchanjun.github.io/ (font stack, colors, and layout).
+This is a lightweight Jekyll template based on the `ankitsultana/researcher` theme.
 
 ## Quick Start
 
