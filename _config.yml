@@ -1,0 +1,19 @@
+title: "Your Name"
+author: ""
+description: ""
+url: "https://yourname.github.io"
+baseurl: ""
+
+nav:
+  - name: "CV"
+    link: "cv.pdf"
+
+profile_picture: "profile.jpg"
+
+tracking_id: ""
+footer: false
+footer_url: ""
+footer_text: ""
+
+plugins:
+  - jekyll-feed
